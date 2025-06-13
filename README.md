@@ -78,13 +78,19 @@ To activate the baseline version in some apps:
 
 ## Digital Signature Verification
 
-This font is signed using OpenPGP to verify its authenticity, see `usage_guide.md` for full instructions.
+This font is signed using OpenPGP to verify its authenticity, see `signature.md` for full instructions.
 
 ---
 
 ## Lisence
 
 This font is licensed under the `SIL Open Font License 1.1.`, see `OFL.txt` for full details.
+
+---
+
+## User Guide
+
+For detailed instructions on how to install and use the Unicima, please refer to the `user_guide.md`.
 
 ---
 
