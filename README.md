@@ -90,7 +90,7 @@ This font is licensed under the `SIL Open Font License 1.1.`, see `OFL.txt` for 
 
 ## User Guide
 
-For detailed instructions on how to install and use the Unicima, please refer to the `user_guide.md`.
+For detailed instructions on how to install and use the Unicima, please refer to the `user_guide.pdf`.
 
 ---
 
@@ -98,3 +98,10 @@ For detailed instructions on how to install and use the Unicima, please refer to
 
 If you'd like to support me as a creator, thank you so much.
 UNICIMA is free and open for remixing and future creative uses—as long as it stays clean, respectful, and helpful to others.
+
+If you find value in this project and wish to support my work,
+you can buy me a coffee on Ko-fi:
+
+→ https://ko-fi.com/bittypestudio
+
+Every small support helps me keep creating freely and meaningfully.
